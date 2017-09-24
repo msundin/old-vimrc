@@ -10,5 +10,5 @@ nnoremap <CR> o<Esc>
 :set number
 " ESLint fixer
 let g:ale_fixers = {
-  \ ‘javascript’: [‘eslint’]
+  \ 'javascript': ['eslint']
   \ }
